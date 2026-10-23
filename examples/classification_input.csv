@@ -1,0 +1,4 @@
+tenure_months,monthly_charges,support_tickets,contract_type,internet_service,payment_method,satisfaction_score,has_partner
+8,89.5,4,month-to-month,fiber,mailed_check,4,0
+60,45.0,0,two_year,dsl,autopay,9,1
+14,110.0,2,one_year,fiber,credit_card,6,0

@@ -1,0 +1,4 @@
+size_sqm,occupants,insulation_rating,avg_temp_c,building_age_years,has_solar,property_type
+120.0,3,4,22.5,12,1,house
+65.5,2,2,31.0,40,0,apartment
+240.0,6,3,18.0,5,0,office
